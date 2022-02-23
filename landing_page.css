@@ -1,0 +1,51 @@
+body{
+ height: 100%;
+ overflow:hidden;
+ -moz-osx-font-smoothing:grayscale;
+ color:rgba(0,0,0,0.87);
+ font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+ margin:0;
+ -moz-text-size-adjust:100%;
+ -moz-text-size-adjust:100%;
+ text-size-adjust:100%
+}
+
+h1{
+box-sizing: content-box;
+width: 75%;
+border: solid #5B6DCD 10px;
+padding: 5px;
+font-family: 'Roboto Serif', sans-serif;
+margin: auto;
+text-align: center;
+
+
+}
+
+#welcome{
+  box-sizing: border-box;
+  width: 100%;
+  border: solid #5B6DCD 10px;
+  padding: 50px;
+  background-color: #86C6F4;
+  font-size: 1em;
+}
+
+h2{
+  text-align: center;
+}
+
+.Service{
+  font-size: 1.5em;
+  font-family: sans-serif;
+}
+
+#img1{
+  float: right;
+}
+
+
+
+#img2{
+  float: left
+}
